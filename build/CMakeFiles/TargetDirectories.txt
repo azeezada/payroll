@@ -1,0 +1,3 @@
+/Users/dawoodazeeza/Projects/payroll/build/CMakeFiles/payroll.dir
+/Users/dawoodazeeza/Projects/payroll/build/CMakeFiles/edit_cache.dir
+/Users/dawoodazeeza/Projects/payroll/build/CMakeFiles/rebuild_cache.dir
